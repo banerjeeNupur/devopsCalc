@@ -1,0 +1,22 @@
+2021-03-12 09:41:18.060 [Calculator.java] INFO  calculator.Calculator - Factorial of the number : 4
+ Result is : 24.0
+2021-03-12 09:49:27.042 [Calculator.java] INFO  calculator.Calculator - Factorial of the number : 4
+ Result is : 24.0
+2021-03-12 09:49:27.047 [Calculator.java] INFO  calculator.Calculator - Factorial of negative number is not possible!
+2021-03-12 09:49:27.048 [Calculator.java] INFO  calculator.Calculator - Factorial of negative number is not possible!
+2021-03-12 09:49:27.049 [Calculator.java] INFO  calculator.Calculator - Factorial of the number : 36
+ Result is : 3.719933267899012E41
+2021-03-12 09:49:27.050 [Calculator.java] INFO  calculator.Calculator - Calculating Square Root of : 25
+ Result : 5.0
+2021-03-12 09:49:27.050 [Calculator.java] INFO  calculator.Calculator - Calculating Square Root of : -25
+ Result : NaN
+2021-03-12 09:49:27.051 [Calculator.java] INFO  calculator.Calculator - Calculating Square Root of : -24
+ Result : NaN
+2021-03-12 09:49:27.051 [Calculator.java] INFO  calculator.Calculator - Calculating Square Root of : 36
+ Result : 6.0
+2021-03-12 09:58:10.524 [Calculator.java] INFO  calculator.Calculator - Factorial of the number : 5
+ Result is : 120.0
+2021-03-12 09:58:13.943 [Calculator.java] INFO  calculator.Calculator - Factorial of the number : 4
+ Result is : 24.0
+2021-03-12 09:58:43.886 [Calculator.java] INFO  calculator.Calculator - Factorial of the number : 21
+ Result is : 5.109094217170944E19
